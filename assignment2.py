@@ -34,3 +34,4 @@ def vankin_max_score(input_file_path, output_file_path):
 vankin_max_score('test1000.in', 'test1000.out')
 
 # change 1
+# change 2
