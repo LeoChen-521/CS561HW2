@@ -35,3 +35,4 @@ vankin_max_score('test1000.in', 'test1000.out')
 
 # change 1
 # change 2
+# change 3
